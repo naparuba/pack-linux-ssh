@@ -13,10 +13,10 @@
                              "description": "Value for starting critical state for the load average at 1m,5m,15m"
                              },
 
-         "_STORAGE_WARN": {"type":"percent",
+         "_STORAGE_SSH_WARN": {"type":"percent",
                                 "description": "Warning level for used disk space"
                              },
-         "_STORAGE_CRIT": {"type":"percent",
+         "_STORAGE_SSH_CRIT": {"type":"percent",
                                 "description": "Critical level for used disk space"
                              },
 
@@ -27,10 +27,10 @@
                                 "description": "Critical level for the CPU usage"
                              },
 
-         "_MEMORY_WARN": {"type":"doublepercent",
+         "_MEMORY_SSH_WARN": {"type":"doublepercent",
                                 "description": "Physical memory and swap warning level"
                              },
-         "_MEMORY_CRIT": {"type":"doublepercent",
+         "_MEMORY_SSH_CRIT": {"type":"doublepercent",
                                 "description": "Physical memory and swap critical level"
                              },
          "_NET_IFACES":  {"type":"regex pattern",
