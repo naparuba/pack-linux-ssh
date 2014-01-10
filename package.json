@@ -1,0 +1,24 @@
+{
+   "name": "linux-ssh",
+   "types": ["pack"],
+   "version": "1.4",
+   "homepage": "https://github.com/DessaiImrane/pack-linux-ssh",
+   "author": "Imrane Dessai,
+   "description": "Linux checks based on SSH without any script on distant server",
+   "contributors": [
+      {
+         "name": "Imrane Dessai,
+         "email": "dessai.imrane@gmail.com"
+      }
+   ],
+   "repository": "https://github.com/DessaiImrane/pack-linux-ssh",
+   "keywords": [
+      "pack",
+      "linux",
+      "ssh"
+   ],
+   "dependencies": {
+      "shinken": ">=1.4"
+   },
+   "license": "AGPL"
+}
