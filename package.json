@@ -3,11 +3,11 @@
    "types": ["pack"],
    "version": "1.4",
    "homepage": "https://github.com/DessaiImrane/pack-linux-ssh",
-   "author": "Imrane Dessai,
+   "author": "Imrane Dessai",
    "description": "Linux checks based on SSH without any script on distant server",
    "contributors": [
       {
-         "name": "Imrane Dessai,
+         "name": "Imrane Dessai",
          "email": "dessai.imrane@gmail.com"
       }
    ],

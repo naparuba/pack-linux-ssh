@@ -19,6 +19,9 @@
          "_STORAGE_SSH_CRIT": {"type":"percent",
                                 "description": "Critical level for used disk space"
                              },
+         "_STORAGE_SSH_UNIT": {"type":"string",
+                                "description": "Unit of disk space : B, KB, MB, GB or TB"
+                             },
 
          "_CPU_WARN": {"type":"percent",
                                 "description": "Warning level for the CPU usage"
