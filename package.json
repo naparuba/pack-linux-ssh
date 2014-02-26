@@ -9,7 +9,12 @@
       {
          "name": "Imrane Dessai",
          "email": "dessai.imrane@gmail.com"
+      },
+      {
+         "name": "Gabes Jean",
+         "email": "naparuba@gmail.com"
       }
+
    ],
    "repository": "https://github.com/DessaiImrane/pack-linux-ssh",
    "keywords": [
