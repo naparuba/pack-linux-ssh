@@ -1,9 +1,9 @@
 {
    "name": "linux-ssh",
    "types": ["pack"],
-   "version": "1.4",
-   "homepage": "https://github.com/DessaiImrane/pack-linux-ssh",
-   "author": "Imrane Dessai",
+   "version": "2.0",
+   "homepage": "https://github.com/naparuba/pack-linux-ssh",
+   "author": "Gabes Jean",
    "description": "Linux checks based on SSH without any script on distant server",
    "contributors": [
       {
@@ -16,7 +16,7 @@
       }
 
    ],
-   "repository": "https://github.com/DessaiImrane/pack-linux-ssh",
+   "repository": "https://github.com/naparuba/pack-linux-ssh",
    "keywords": [
       "pack",
       "linux",
