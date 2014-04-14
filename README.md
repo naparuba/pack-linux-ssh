@@ -5,11 +5,11 @@ Configuration pack for Linux hosts based on SSH checks
 
 Based on https://github.com/naparuba/check-linux-by-ssh
 
-For Authorized_keys, you have to put in your resource.d files :
+For Authorized_keys, you have to edit the /etc/shinken/resource.d/ssh.cfg file if need:
 
-$SSH_KEY$=/etc/shinken/id_dsa
+$SSH_KEY$=~/.ssh/id_rsa
 $SSH_KEY_PASSPHRASE$=''
-$SSH_USER$=sup_user
+$SSH_USER$=shinken
 
 
 TODO
