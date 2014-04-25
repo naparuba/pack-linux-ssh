@@ -10,6 +10,7 @@ For Authorized_keys, you have to edit the /etc/shinken/resource.d/ssh.cfg file i
 $SSH_KEY$=~/.ssh/id_rsa
 $SSH_KEY_PASSPHRASE$=''
 $SSH_USER$=shinken
+$SSH_PORT$=22
 
 
 TODO

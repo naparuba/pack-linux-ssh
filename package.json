@@ -7,6 +7,10 @@
    "description": "Linux checks based on SSH without any script on distant server",
    "contributors": [
       {
+         "name": "Christophe Crier",
+         "email": "2cadz@adiczion.net"
+      },
+      {
          "name": "Imrane Dessai",
          "email": "dessai.imrane@gmail.com"
       },
